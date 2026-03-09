@@ -36,6 +36,7 @@
 | [TMSA-II-UI-Workflows.md](TMSA-II-UI-Workflows.md) | Alle 16 UI-Module, Screens, Workflows, Berechtigungen | ~350 |
 | [TMSA-II-Database-Schema.md](TMSA-II-Database-Schema.md) | 175+ Tabellen, 350+ Stored Procedures, 16 Domänen | 1249 |
 | [TMSA-II-Berichte-EDI-Services-Dokumentation.md](TMSA-II-Berichte-EDI-Services-Dokumentation.md) | 47 Berichte, 10 EDI-Schnittstellen, 5 Hintergrunddienste | 740 |
+| [TMSA-II-Gebrochene-Verkehre.md](TMSA-II-Gebrochene-Verkehre.md) | Multi-Leg Transporte, Streckenabschnitte, Tour-Splitting, LagerRouting | ~350 |
 
 ---
 
